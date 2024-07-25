@@ -1,7 +1,9 @@
 
 
 <p align="center">
-Projeto de portfólio desenvolvido através do curso de HTML e CSS da Alura. <br/>
+Projeto de portfólio desenvolvido através do curso de Front-end: A partir do zero HTML e CSS para projetos web da Alura.
+  <br/>
+
 
 
 <p align="center">
