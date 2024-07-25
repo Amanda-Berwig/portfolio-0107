@@ -16,9 +16,9 @@ Projeto de portfólio desenvolvido através do curso de HTML e CSS da Alura. <br
 
 <br>
 
+
 <p align="center">
-  <img alt=Portfolio" src=".![image](https://github.com/user-attachments/assets/b6c188d9-d8b4-49c7-9c2a-16bf2d5c5c95)
-" width="100%">
+  <img alt="projeto portfolio" src="png projeot.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
